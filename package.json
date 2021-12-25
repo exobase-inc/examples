@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@exobase/lambda": "^0.0.1"
+  }
+}
